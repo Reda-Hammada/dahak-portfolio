@@ -26,28 +26,28 @@ interface skillsTypes {
 const skillsIcons: skillsTypes[] = [
   {
     key: 1,
-    src: "./images/ccna.png",
+    src: "/images/ccna.png",
     alt: "ccna skill",
   },
   {
     key: 2,
-    src: "./images/ws.png",
+    src: "/images/ws.png",
     alt: "window server",
   },
 
   {
     key: 3,
-    src: "./images/linux.png",
+    src: "/images/linux.png",
     alt: "linux ",
   },
   {
     key: 4,
-    src: "./images/vmware.jpg",
+    src: "/images/vmware.jpg",
     alt: "vmware ",
   },
 
-  { key: 5, src: "./images/vbox.png", alt: "virtual box " },
-  { key: 6, src: "./images/python.png", alt: "Python  " },
-  { key: 7, src: "./images/moffice.png", alt: "moffice  " },
+  { key: 5, src: "/images/vbox.png", alt: "virtual box " },
+  { key: 6, src: "/images/python.png", alt: "Python  " },
+  { key: 7, src: "/images/moffice.png", alt: "moffice  " },
 ];
 </script>

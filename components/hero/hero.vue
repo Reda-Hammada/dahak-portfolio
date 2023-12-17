@@ -34,7 +34,7 @@
     <div class="lg:w-[20%] w-[100%] mt-9 lg:mt-0 flex justify-center">
       <nuxt-img
         class="h-[500px] custom-border-radius"
-        src="./images/DSC_1869.jpg"
+        src="/images/DSC_1869.jpg"
         alt=""
         loading="lazy"
       />

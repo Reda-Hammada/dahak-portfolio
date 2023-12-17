@@ -11,7 +11,7 @@ import { NuxtLink } from '../../.nuxt/components';
         <div class="w-[100%] flex lg:hidden lg:w-[35%] mt-5">
           <NuxtImg
             class="rounded-lg"
-            :src="`./images/${zertifikat.img}`"
+            :src="`/images/${zertifikat.img}`"
             :alt="zertifikat.alt"
           />
         </div>
@@ -27,7 +27,7 @@ import { NuxtLink } from '../../.nuxt/components';
       <div class="w-[100%] hidden lg:flex lg:w-[35%]">
         <NuxtImg
           class="rounded-lg"
-          :src="`./images/${zertifikat.img}`"
+          :src="`/images/${zertifikat.img}`"
           :alt="zertifikat.alt"
         />
       </div>

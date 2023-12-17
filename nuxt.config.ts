@@ -10,6 +10,7 @@ export default defineNuxtConfig({
   },
   image: {
     provider: "ipx",
+    loading: "lazy",
   },
   modules: ["@nuxt/image", "nuxt-icon"],
 });

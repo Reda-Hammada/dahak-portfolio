@@ -7,7 +7,7 @@
       <div class="lg:w-[30%] w-[100%] mt-5">
         <NuxtImg
           class="rounded-lg w-[100%] lg:w-[600px] h-[500px]"
-          src="/images/DSC_1869.jpg"
+          src="../../images/DSC_1869.jpg"
           alt="Reda Dahak Netzwerk techniker ausbildung fachinformatiker"
         />
       </div>

@@ -8,5 +8,8 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  image: {
+    provider: "ipx",
+  },
   modules: ["@nuxt/image", "nuxt-icon"],
 });

@@ -10,7 +10,7 @@
         <NuxtLink to="mailto:bewerbung@reda-dahak.de">
           <ReusableButton
             variant="  hover:bg-[#147efb] bg-black font-bold   text-white font-bold rounded   mt-5 w-[300px] h-[55px]  pr-[1%] pl-[1%]"
-            text="bewerbung@reda-dahak.de"
+            text="bewerbung.dahak.reda@gmail.com"
           >
           </ReusableButton>
         </NuxtLink>

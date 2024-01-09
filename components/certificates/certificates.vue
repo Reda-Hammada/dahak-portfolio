@@ -1,4 +1,3 @@
-import { NuxtLink } from '../../.nuxt/components';
 <template>
   <section id="zertifikats" class="w-[100%] mt-32">
     <h2 class="text-3xl ml-5 lg:ml-32 font-bold">Zertifikats</h2>
@@ -19,7 +18,7 @@ import { NuxtLink } from '../../.nuxt/components';
         <NuxtLink target="_blank" :to="zertifikat.link">
           <ReusableButton
             variant="  hover:bg-[#147efb] bg-black  text-[16px] text-white font-bold rounded   mt-9 w-[150px] h-[40px]  pr-[1%] pl-[1%]"
-            text="siehe Zertifikat"
+            text="Zertifikatanzeige"
           >
           </ReusableButton>
         </NuxtLink>

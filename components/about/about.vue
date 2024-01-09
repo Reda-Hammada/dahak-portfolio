@@ -7,16 +7,18 @@
       <div class="lg:w-[30%] w-[100%] mt-5">
         <NuxtImg
           class="rounded-lg w-[100%] lg:w-[600px] h-[500px]"
-          src="../../images/DSC_1869.jpg"
+          src="../../images/reda.jpg"
           alt="Reda Dahak Netzwerk techniker ausbildung fachinformatiker"
         />
       </div>
       <div class="w-[100%] lg:w-[35%] mt-8 ml-5 text-xl">
-        Ich Bin Reda, ein Netzwerktechniker und besitze einen Fachabschluss in
-        Netzwerken und Systemen mit drei Schulungskursen und Erfahrung bei der
-        Arbeit mit einem Unternehmen, bei dem ich ausgebildet wurde. Ich suche
-        eine neue Herausforderung, um meine Kenntnisse und Fähigkeiten
-        weiterzuentwickeln
+        Meine Begeisterung für das Lernen und mein ständiges Streben nach
+        persönlicher Weiterentwicklung treiben mich immer dazu an, nach neuen
+        Herausforderungen Ausschau zu halten. Ich bin fest davon überzeugt, dass
+        ich die Fähigkeiten besitze, ein erfolgreicher und effektiver Trainee in
+        Ihrem Unternehmen zu sein. Indem ich in meine Fähigkeitenentwicklung
+        investiere und aktiv zum Erreichen der Unternehmensziele beitrage, trage
+        ich dazu bei, die Zufriedenheit im Unternehmen vollständig zu stärken.
       </div>
     </div>
   </section>

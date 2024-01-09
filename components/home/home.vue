@@ -1,4 +1,3 @@
-import { CertificatesCertificate } from '../../.nuxt/components';
 <template>
   <nav-bar></nav-bar>
   <hero></hero>

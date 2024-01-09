@@ -14,7 +14,7 @@
       </p>
       <div class="lg:text-start text-center">
         <NuxtLink
-          to="https://drive.google.com/uc?export=download&id=12nIcy_TvbUXo9DjyuOGeRxw9KmtWAu92"
+          to="https://drive.google.com/uc?export=download&id=1eHBK8aOesizxZKO9_bJeBX7A5mXg85iK"
         >
           <ReusableButton
             variant="  hover:bg-[#147efb] bg-black  text-[16px] text-white font-bold rounded   mt-9 w-[280px] h-[55px]  pr-[1%] pl-[1%]"
